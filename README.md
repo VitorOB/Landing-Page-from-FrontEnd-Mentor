@@ -3,7 +3,7 @@
 ### Screenshot
 
 ![](./images/print1.png)
-![](./images/print%20mobile.png.png)
+![](./images/print%20mobile.png)
 
 
 ### Links
