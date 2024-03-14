@@ -8,7 +8,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Deploy](https://vitorob.github.io/Landing-Page-from-FrontEnd-Mentor/)
 
 ### Built with / Tecnologias usadas
 
